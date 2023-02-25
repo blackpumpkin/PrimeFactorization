@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b6c5ea-756f-4cfe-9967-00d40def995d" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="15b6c5ea-756f-4cfe-9967-00d40def995d" name="变更" comment="20230225" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,25 @@
       <option name="presentableId" value="Default" />
       <updated>1676519927825</updated>
     </task>
+    <task id="LOCAL-00001" summary="20230225">
+      <created>1677293830275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677293830275</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20230225">
+      <created>1677293908048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677293908048</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20230225" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230225" />
   </component>
 </project>
